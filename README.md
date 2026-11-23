@@ -66,12 +66,9 @@
     "notInvestmentAdvice": true,
     "statement_tr": "Bu iki token (RSM ve RASEM/ASM), Karakuzular Network tarafından iyi niyetle (goodwill) geliştirilen topluluk projeleridir. Bu bir sahip beyanıdır; üçüncü taraf doğrulaması, getiri vaadi veya yatırım tavsiyesi değildir.",
     "statement_en": "These two tokens (RSM and RASEM/ASM) are community projects developed in good faith (goodwill) by Karakuzular Network. This is an owner self-declaration, not third-party verification, a promise of returns, or investment advice."
-  }    <img width="512" height="512" alt="rsm-512" src="https://github.com/user-attachments/assets/f50b0000-126f-4e07-aecf-35634c09bd8a" />
-<img width="256" height="256" alt="rsm-256" src="https://github.com/user-attachments/assets/1439f426-ce4b-4722-8180-bf3a430daa16" />
-<img width="128" height="128" alt="rsm-128" src="https://github.com/user-attachments/assets/a382f15a-d6db-4a39-b8a9-385a75e5bfea" />
-<img width="64" height="64" alt="rsm-64" src="https://github.com/user-attachments/assets/7861163d-7953-4aac-961e-42552fec5027" />
-<img width="32" height="32" alt="rsm-32" src="https://github.com/user-attachments/assets/52b40c79-3ba9-42dd-a945-2c1b7e36b629" />
-<img width="32" height="32" alt="rsm-32" src="https://github.com/user-attachments/assets/f7670527-8cdb-4059-ae15-7491eb4d1bb7" />
+709312537-7d137a26-dabe-4eaf-8cd4-bb854ca499cf.svg (SVG → PNG)
+256×256: ipfs://bafkreiedrvbjvihmroygdukoegv5veg6pdkbfo6wcsvgwweyuqa32yj5ly
+512×512: ipfs://bafkreig2b2sujn76mvpi6lbrjo26moxgjtgvqjvjqf4pqjbgluy5tzdq2i
 {
   "name": "RISASIMANI",
   "type": "BEP20",
