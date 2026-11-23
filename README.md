@@ -1,4 +1,30 @@
-{
+{[ic-kayit-defteri.json](https://github.com/user-attachments/files/35256953/ic-kayit-defteri.json)
+[
+  {
+    "sym": "RSM",
+    "address": "0xf394A750c47DfeEb134C4CbE05AAe13199e88e4e",
+    "v1": "bafkreiggce7aq3vcuwzug7ouo3wzlizkmiat3lt23xhy5n7d7oumfxujvm",
+    "v0": "QmSWCwtXzdQQqB2XZ3L6SdQwawuhc1qeRURKZLsT7odm2R",
+    "logo": "https://risasimanirasemdappbank.netlify.app/logos/rsm-256.png",
+    "t": "2026-11-22T10:01:17.732Z"
+  },
+  {
+    "sym": "RSM",
+    "address": "0xf394A750c47DfeEb134C4CbE05AAe13199e88e4e",
+    "v1": "bafkreiggce7aq3vcuwzug7ouo3wzlizkmiat3lt23xhy5n7d7oumfxujvm",
+    "v0": "QmSWCwtXzdQQqB2XZ3L6SdQwawuhc1qeRURKZLsT7odm2R",
+    "logo": "https://risasimanirasemdappbank.netlify.app/logos/rsm-256.png",
+    "t": "2026-11-22T15:11:56.881Z"
+  },
+  {
+    "sym": "RSM",
+    "address": "0xf394A750c47DfeEb134C4CbE05AAe13199e88e4e",
+    "v1": "bafkreiedrvbjvihmroygdukoegv5veg6pdkbfo6wcsvgwweyuqa32yj5ly",
+    "v0": "QmVeqG6NnkFMWyb8CGPQu5fp8cXJwX9ivYbW99jp3FmMJy",
+    "logo": "https://risasimanirasemdappbank.netlify.app/logos/rsm-256.png",
+    "t": "2026-11-23T04:31:14.744Z"
+  }
+]
   "name": "RISASIMANI",
   "symbol": "RSM",
   "decimals": 18,
