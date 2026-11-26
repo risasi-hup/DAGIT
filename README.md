@@ -1,3 +1,4 @@
+[RISASIMANI_RSM_Whitepaper.pdf](https://github.com/user-attachments/files/35488179/RISASIMANI_RSM_Whitepaper.pdf)
 # RISASIMANI (RSM)
 
 Token metadata for the BNB Smart Chain (BEP-20) token is maintained in [`tokenlist.json`](./tokenlist.json).
