@@ -1,4 +1,18 @@
-risasi-hup/ipfs-check {[ic-kayit-defteri.json](https://github.com/user-attachments/files/35256953/ic-kayit-defteri.json)
+{
+  "chainId": 56,
+  "address": "0xf394A750c47DfeEb134C4CbE05AAe13199e88e4e",
+  "name": "RISASIMANI",
+  "symbol": "RSM",
+  "decimals": 18,
+  "logoURI": "https://github.com/user-attachments/assets/7d137a26-dabe-4eaf-8cd4-bb854ca499cf",
+  "extensions": {
+    "website": "https://karakuzularnetwork.netlify.app/",
+    "dapp": "https://risasimanirasemdappbank.netlify.app/",
+    "twitter": "https://x.com/karakuzular0659",
+    "explorer": "https://bscscan.com/token/0xf394A750c47DfeEb134C4CbE05AAe13199e88e4e",
+    "whitepaper": "https://risasimanirasemdappbank.netlify.app/docs/RISASIMANI_RSM_Whitepaper.pdf"
+  }
+}risasi-hup/ipfs-check {[ic-kayit-defteri.json](https://github.com/user-attachments/files/35256953/ic-kayit-defteri.json)
 [
   {
     "sym": "RSM",
