@@ -5,8 +5,9 @@ Token metadata for the BNB Smart Chain (BEP-20) token is maintained in [`tokenli
 
 - **Contract:** [`0xf394A750c47DfeEb134C4CbE05AAe13199e88e4e`](https://bscscan.com/token/0xf394A750c47DfeEb134C4CbE05AAe13199e88e4e)
 - **Logo:** https://github.com/user-attachments/assets/7d137a26-dabe-4eaf-8cd4-bb854ca499cf
+- **Logo:** ipfs://bafkreiedrvbjvihmroygdukoegv5veg6pdkbfo6wcsvgwweyuqa32yj5ly
 - **Website:** https://karakuzularnetwork.netlify.app/
-- **DApp:** https://risasimanirasemdappbank.netlify.app/
+- **DApp:** https://risasi-hup.github.io/risasimanirasemdappbank/
 - **X:** https://x.com/karakuzular0659
 - **Whitepaper:** https://risasimanirasemdappbank.netlify.app/docs/RISASIMANI_RSM_Whitepaper.pdf
 
