@@ -1,11 +1,11 @@
 {
   "$schema": "https://github.com/Uniswap/token-lists/blob/main/src/tokenlist.schema.json",
   "name": "RISASIMANI Token List",
-  "timestamp": "2026-11-26T00:00:00Z",
+  "timestamp": "2026-11-27T00:00:00Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tokens": [
     {
@@ -14,11 +14,13 @@
       "name": "RISASIMANI",
       "symbol": "RSM",
       "decimals": 18,
-      "logoURI": "https://github.com/user-attachments/assets/7d137a26-dabe-4eaf-8cd4-bb854ca499cf",
+      "logoURI": "ipfs://bafkreiedrvbjvihmroygdukoegv5veg6pdkbfo6wcsvgwweyuqa32yj5ly",
       "extensions": {
         "website": "https://karakuzularnetwork.netlify.app/",
         "dapp": "https://risasimanirasemdappbank.netlify.app/",
         "twitter": "https://x.com/karakuzular0659",
+        "telegram": "https://t.me/RISASIMANI",
+        "github": "https://github.com/risasi-hup",
         "explorer": "https://bscscan.com/token/0xf394A750c47DfeEb134C4CbE05AAe13199e88e4e",
         "whitepaper": "https://github.com/user-attachments/files/35488179/RISASIMANI_RSM_Whitepaper.pdf"
       }
